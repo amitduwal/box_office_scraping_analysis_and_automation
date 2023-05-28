@@ -1,0 +1,42 @@
+Top 10 Distributors by Count
+Distributor,Mean_Earnings,Total_Earnings,Movie_Count
+Lionsgate,100341901.8,602051411.0,6
+Warner Bros.,78839355.8,394196779.0,5
+Universal Pictures,357588108.2,1787940541.0,5
+Sony Pictures Entertainment (SPE),29740697.8,118962791.0,4
+Focus Features,11682059.8,46728239.0,4
+Paramount Pictures,121754941.0,487019764.0,4
+Well Go USA Entertainment,15225795.7,45677387.0,3
+Fathom Events,4709686.0,14129058.0,3
+Walt Disney Studios Motion Pictures,400935220.3,1202805661.0,3
+Yash Raj Films USA Inc.,66407957.5,132815915.0,2
+
+--------------------
+
+Top 10 Distributors by Average Earnings
+Distributor,Mean_Earnings,Total_Earnings,Movie_Count
+Walt Disney Studios Motion Pictures,400935220.3,1202805661.0,3
+Universal Pictures,357588108.2,1787940541.0,5
+United Artists Releasing,138267734.5,276535469.0,2
+Paramount Pictures,121754941.0,487019764.0,4
+Lionsgate,100341901.8,602051411.0,6
+MGM/Weinstein,89186940.0,89186940.0,1
+Warner Bros.,78839355.8,394196779.0,5
+Yash Raj Films USA Inc.,66407957.5,132815915.0,2
+Crunchyroll,56119404.0,56119404.0,1
+Screen Gems,41633815.0,83267630.0,2
+
+--------------------
+
+Top 10 Distributors by Total Earnings
+Distributor,Mean_Earnings,Total_Earnings,Movie_Count
+Universal Pictures,357588108.2,1787940541.0,5
+Walt Disney Studios Motion Pictures,400935220.3,1202805661.0,3
+Lionsgate,100341901.8,602051411.0,6
+Paramount Pictures,121754941.0,487019764.0,4
+Warner Bros.,78839355.8,394196779.0,5
+United Artists Releasing,138267734.5,276535469.0,2
+Yash Raj Films USA Inc.,66407957.5,132815915.0,2
+Sony Pictures Entertainment (SPE),29740697.8,118962791.0,4
+MGM/Weinstein,89186940.0,89186940.0,1
+Screen Gems,41633815.0,83267630.0,2
