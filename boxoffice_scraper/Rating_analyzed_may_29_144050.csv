@@ -1,0 +1,27 @@
+
+--------------------
+
+Top 10 MPAA Ratings by Mean Earnings
+Mpaa_rating,Mean_Earnings,Total_Earnings,Movie_Count
+PG,505787648.3,1517362945.0,3
+PG-13,135121375.7,2702427514.0,20
+R,56510004.5,1356240107.0,24
+NotRated,19260529.4,231126353.0,12
+
+--------------------
+
+Top 10 MPAA Ratings by Movie Count
+Mpaa_rating,Mean_Earnings,Total_Earnings,Movie_Count
+R,56510004.5,1356240107.0,24
+PG-13,135121375.7,2702427514.0,20
+NotRated,19260529.4,231126353.0,12
+PG,505787648.3,1517362945.0,3
+
+--------------------
+
+Top 10 MPAA Ratings by Total Earnings
+Mpaa_rating,Mean_Earnings,Total_Earnings,Movie_Count
+PG-13,135121375.7,2702427514.0,20
+PG,505787648.3,1517362945.0,3
+R,56510004.5,1356240107.0,24
+NotRated,19260529.4,231126353.0,12
