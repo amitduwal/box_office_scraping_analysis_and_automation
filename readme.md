@@ -48,3 +48,5 @@ pip install -r requirements.txt
 ## Conclusion
 
 The Box Office project demonstrates the power of using Apache Airflow, Scrapy, and pandas to automate the collection and analysis of box office data. By utilizing the capabilities of Airflow for task scheduling and dependency management, the project provides a reliable and scalable solution for regularly updating and extracting valuable insights from box office information.
+[Screencast from 29-5-23 02:39:41 अपराह्न +0545.webm](https://github.com/amitduwal/box_office_scraping_analysis_and_automation/assets/43780571/8a79ac6b-5179-4562-aedc-6cb1270fee27)
+
